@@ -2,6 +2,8 @@
 
 ## [Unreleased]
 
+## [2.6.3] - 2026-06-24
+
 ### Added
 
 - `qmd embed --timeout <minutes>` overrides the embed session's max duration
