@@ -1,0 +1,6 @@
+interface:
+  display_name: "Qmd"
+  short_description: "Repo-specific patterns and workflows for qmd"
+  default_prompt: "Use the qmd repo skill to follow existing architecture, testing, and workflow conventions."
+policy:
+  allow_implicit_invocation: true
